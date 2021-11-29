@@ -1,0 +1,14 @@
+C:\Users\NithishKumarGnanavel\source\repos\Vaccination\Vaccination\bin\Debug\netcoreapp3.1\Vaccination.exe
+C:\Users\NithishKumarGnanavel\source\repos\Vaccination\Vaccination\bin\Debug\netcoreapp3.1\Vaccination.deps.json
+C:\Users\NithishKumarGnanavel\source\repos\Vaccination\Vaccination\bin\Debug\netcoreapp3.1\Vaccination.runtimeconfig.json
+C:\Users\NithishKumarGnanavel\source\repos\Vaccination\Vaccination\bin\Debug\netcoreapp3.1\Vaccination.runtimeconfig.dev.json
+C:\Users\NithishKumarGnanavel\source\repos\Vaccination\Vaccination\bin\Debug\netcoreapp3.1\Vaccination.dll
+C:\Users\NithishKumarGnanavel\source\repos\Vaccination\Vaccination\bin\Debug\netcoreapp3.1\Vaccination.pdb
+C:\Users\NithishKumarGnanavel\source\repos\Vaccination\Vaccination\obj\Debug\netcoreapp3.1\Vaccination.csproj.AssemblyReference.cache
+C:\Users\NithishKumarGnanavel\source\repos\Vaccination\Vaccination\obj\Debug\netcoreapp3.1\Vaccination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NithishKumarGnanavel\source\repos\Vaccination\Vaccination\obj\Debug\netcoreapp3.1\Vaccination.AssemblyInfoInputs.cache
+C:\Users\NithishKumarGnanavel\source\repos\Vaccination\Vaccination\obj\Debug\netcoreapp3.1\Vaccination.AssemblyInfo.cs
+C:\Users\NithishKumarGnanavel\source\repos\Vaccination\Vaccination\obj\Debug\netcoreapp3.1\Vaccination.csproj.CoreCompileInputs.cache
+C:\Users\NithishKumarGnanavel\source\repos\Vaccination\Vaccination\obj\Debug\netcoreapp3.1\Vaccination.dll
+C:\Users\NithishKumarGnanavel\source\repos\Vaccination\Vaccination\obj\Debug\netcoreapp3.1\Vaccination.pdb
+C:\Users\NithishKumarGnanavel\source\repos\Vaccination\Vaccination\obj\Debug\netcoreapp3.1\Vaccination.genruntimeconfig.cache
